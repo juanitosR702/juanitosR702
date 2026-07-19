@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanitosR702" alt="juanitosR702" /></a> </p>
 
-- 🔭 I'm currently working on **m currently working on improving my backend development skills with Python, FastAPI, PostgreSQL**
+- 🔭 I'm currently working on **improving my backend development skills with Python, FastAPI, PostgreSQL**
 
-- 🌱 I'm currently learning **I'm currently learning backend development, database design, REST APIs, and expanding my knowledge of software architecture**
+- 🌱 I'm currently learning **backend development, database design, REST APIs, and expanding my knowledge of software architecture, Arduino, ESP32**
 
-- 👯 I'm looking to collaborate on **I'm looking to collaborate on backend projects, automation tools, IoT applications, and open-source software**
+- 👯 I'm looking to collaborate on **backend projects, automation tools, IoT applications, and open-source software**
 
-- 🤝 I'm looking for help with **I'm looking for help with building scalable backend applications, writing cleaner code, and following industry best practices**
+- 🤝 I'm looking for help with **building scalable backend applications, writing cleaner code, and following industry best practices**
 
-- 💬 Ask me about **Ask me about Python, FastAPI, PostgreSQL, Git, Arduino, ESP32, or beginner backend development**
+- 💬 Ask me about **Python, FastAPI, PostgreSQL, Git, Arduino, ESP32, or beginner backend development**
 
 - 📫 How to reach me **juandjdid89@gmail.com**
 
