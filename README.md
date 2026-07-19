@@ -20,10 +20,6 @@
 </p>
 
 <p>
-  <a href="https://linkedin.com/in/franks2103">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Frank%20Teheran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
     />
   </a>
   <a href="mailto:juandjdid89@gmail.com">
@@ -112,7 +108,7 @@ AI knowledge and workflow platform combining agent orchestration, retrieval-augm
 
 Conversational operating system for restaurants that automates customer service, sales, order management, inventory coordination and kitchen workflows through WhatsApp.
 
-`FastAPI` · `WhatsApp Integrations` · `LLMs` · `Workflow Automation` · `PostgreSQL` · `Redis` · `n8n`
+`FastAPI` · `WhatsApp Integrations` · `LLMs` · `Workflow Automation` · `PostgreSQL` · `Redis` · 
 
 ---
 
@@ -284,12 +280,6 @@ I'm interested in backend-heavy applications, applied AI systems, automation pla
   />
 </a>
 
-<a href="https://linkedin.com/in/franks2103">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-franks2103-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
 
 <a href="mailto:juandjdid89@gmail.com">
   <img
@@ -297,6 +287,15 @@ I'm interested in backend-heavy applications, applied AI systems, automation pla
     alt="Gmail"
   />
 </a>
+
+<br />
+<br />
+
+### Build systems that are useful, observable and maintainable.
+
+**Backend · Automation · Applied AI · Product Engineering**
+
+</div>
 
 <br />
 <br />
