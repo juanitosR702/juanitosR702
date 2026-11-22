@@ -47,7 +47,7 @@
   />
   <img
     src="https://img.shields.io/badge/Focus-Backend%20Development-111827?style=flat-square"
-    alt="Backend Development"
+    alt="Full stack Development"
   />
 </p>
 
@@ -57,7 +57,7 @@
 
 # 🧠 About me
 
-I'm a **Backend Developer from Colombia** focused on building REST APIs, automation tools and embedded systems.
+I'm a **Full Stack Developer from Colombia** focused on building REST APIs, automation tools and embedded systems.
 
 I enjoy creating software that solves real problems while improving my backend engineering skills.
 
